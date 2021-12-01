@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm SlayerS76</h1>
-<h3 align="center">A passionate CyberSecurity from France</h3>
+<h3 align="center">A passionate CyberSecurity Engineer from France</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=slayers76&label=Profile%20views&color=0e75b6&style=flat" alt="slayers76" /> </p>
 
@@ -13,12 +13,11 @@
 
 - 📫 How to reach me **SlayerS76520@gmail.com**
 
-- ⚡ **don't stop to learn IT grow day by day**
+- ⚡ Fun fact **don't stop to learn IT grow day by day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/maxime-calvo-3b2aa9168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime calvo" height="30" width="40" /></a>
-<a href="https://discord.gg/SlayerS76#1111" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="SlayerS76#1111" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/maxime-calvo-3b2aa9168" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="maxime-calvo-3b2aa9168" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
