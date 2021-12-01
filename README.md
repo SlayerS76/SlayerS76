@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **SlayerS76520@gmail.com**
 
-- ⚡ Fun fact **don't stop to learn IT grow day by day**
+- ⚡ **don't stop to learn IT grow day by day**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
